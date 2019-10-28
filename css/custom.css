@@ -1,0 +1,24 @@
+
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul > li{
+    margin-bottom: 10px;
+}
+.statusCheck + label{
+    cursor: pointer;
+}
+.paginationLinks{
+    margin-right: 1rem;
+}
+.sortCont span{
+    margin-right: 1rem;
+}
+#sortForm > div{
+    margin-right: 1rem;
+}
+.homeLink{
+    font-size: 32px;
+}
